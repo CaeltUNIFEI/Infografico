@@ -1,3 +1,5 @@
 # Infografico 🔎📚👩‍🎓
 
-Tendo em vista que a universidade federal de Itajubá não possui nenhum perfil de estudante e nenhum esquema estatístico sobre os alunos, nós do CAELT (Centro Acadêmico de Eletronica) estamos desenvolvendo uma pesquisa sobre o perfil dos estudantes bem como as estatísticas gerais dos estudantes do curso de eletrônica. 
+Tendo em vista que a UNIFEI (Universidade Federal de Itajubá) não possui nenhum esquema estatístico sobre os alunos, nós do CAELT (Centro Acadêmico de Eletrônica) estamos desenvolvendo uma pesquisa sobre as estatísticas gerais dos estudantes do curso de eletrônica. 
+
+<img height="180em" src="https://drive.google.com/uc?export=view&id=1RFqzNE6yJHE2TJjIQww2oSuYyZo7rH1y">
